@@ -42,3 +42,30 @@ span{
     display: flex;
     justify-content: space-around;
 }
+.image{
+    width: 30%;
+    position: absolute;
+    top: 1500px;
+    left: 30px;
+    color: #6C459F;
+    display: none;
+}
+h5{
+    color: black;
+}
+.image-1{
+    width: 30%;
+    position: absolute;
+    top: 1500px;
+    left: 460px;
+    color: #6C459F;
+    display: none;
+}
+.image-2{
+    width: 30%;
+    position: absolute;
+    top: 1500px;
+    left: 900px;
+    color: #6C459F;
+    display: none;
+}
